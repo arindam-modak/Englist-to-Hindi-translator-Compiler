@@ -1,0 +1,242 @@
+Ram NNP O राम
+go VBP M जाता 
+go VBP F जाती
+to TO O है
+play VB M खेलने
+play VB F खेलने
+play NN O खेल
+is VBZ M है
+is VBZ F है
+playing VBG M खेल रहा
+playing VBG F खेल रही
+was VBD M था 
+was VBD F थी
+Sita NNP O सीता
+dance VB O नाचने
+Geeta NNP O गीता
+love NN O पसंद
+sleep VB M सोना
+sleep VB F सोना
+going VBG M जा रहा
+going VBG F जा रही
+Cats NNS O बिल्ली
+hate VBP O नफरत है
+dog NN O कुत्ते
+Geeta NNP O गीता
+love NN O पसंद
+sleep VB F को सोना
+Ram NNP O राम 
+play VB M खेलने 
+He PRP O वह 
+eat VB M खाने
+eat VB F खाने
+eat VB O खाने
+ate VBD M खाया
+ate VBD F खाय
+ate VBD O खाया
+food NN O खाना
+She PRP O वह 
+eat VB F खाने 
+ate VBD F खाया 
+Arindam NNP O अरिंदम
+Anagh NNP O अनघ
+Piyush NN O पीयूष
+Sita NNP O सीता 
+play VB F खेलने
+Vaibhav NNP O वैभव 
+Ram NNP O राम
+running VBG M चल रहा
+running VBG F चल रही
+sings NNS O गाती है
+well RB O अच्छा
+singing VBG F गा रही
+singing VBG M गा रहा
+a DT O है
+song NN O गीत
+dancing VBG F नाच रही
+dancing VBG M नाच रहा
+Ram NNP O राम 
+swimming VBG M तैर रहा
+swimming VBG F तैर रही
+in IN O में
+the DT O हैं
+lake NN O झील
+taking VBG M रहा
+taking VBG F रही
+bath NN O नहा
+shopping VBG F खरीदारी कर रही
+shopping VBG M खरीदारी कर रहा
+market NN O बाजार
+Ram NNP O राम
+go VBP M जाता 
+go VBP F जाती
+to TO O है
+play VB M खेलने
+play VB F खेलने
+play NN O खेल
+is VBZ M है
+is VBZ F है
+playing VBG M खेल रहा
+playing VBG F खेल रही
+Sita NNP O सीता
+dance VB O नाचने
+Geeta NNP O गीता
+love NN O पसंद
+sleep VB M सोना
+sleep VB F सोना
+going VBG M जा रहा
+going VBG F जा रही
+Rohit NNP O रोहित
+eat VB M खाने
+eat VB F खाने
+eating VBG M खा रही
+eating VBG F खा रही
+Rahul NNP O राहुल
+Raghav NNP O राघव
+Rohini NNP O रोहिणी
+praying VBG F प्रार्थना कर रही
+praying VBG M प्रार्थना कर रहा
+Mithila NNP O मिथिला
+Cry VB F रोने
+Cry VB M रोने
+Cats NNS O बिल्लियों को
+Hate VBP नफरत है
+Dogs NN O कुत्ते से
+Rohan NNP O रोहन
+love VBP M बहुत पसंद है
+love VBP F बहुत पसंद है
+Sleep VB M को सोना
+Sleep VB F को सोना
+Akash NNP O आकाश
+Fight VB M लड़ाई करने
+Fight VB F लड़ाई करने
+He PRP O वह 
+She PRP O वह
+Ate VBD M खाया
+Ate VBD F खाया
+Shubham NNP O शुभम
+Prajal NNP O प्रजा
+Rishabh NNP O रिषभ
+Prakash NN O प्रकाश
+Ashish NN O आशीष
+Gagan NNP O गगन
+running VBG M दौड़ रहा
+running VBG F दौड़ रही
+Deepanshu NNP O दीपांशु
+sings NNS O गाता
+well RB अच्छा
+Mansi NNP O मानसी
+Simran NNP O सिमरन
+Gaurav NNP O गौरव
+Sheetal NNP O शीतल
+smiling VBG F मुस्कुरा रही
+smiling VBG M मुस्कुरा रहा
+laughing VBG M हस रहा
+laughing VBG F हस रही
+Swimming VBG M तैर रहा
+Swimming VBG F तैर रही
+in IN O मे
+lake NN O तालाब
+Piyush NNP O पियूष
+shopping VBG M खरीद रहा
+shopping VBG F खरीद रही
+shopping VBG O खरीद रहे
+You PRP O तुम
+you PRP O तुम
+are VBP M हो
+are VBP F हो
+are VBP O हो
+beautiful JJ O खूबसूरत
+working VBG M मेहनत कर रहे
+working VBG F मेहनत कर रहे
+hard RB O कड़ी
+I PRP O में
+am VBP M हूँ
+am VBP F हूँ
+am VBP O हूँ
+went VBD M चला गया
+went VBD F गई थी
+went VBD O चला गया
+Triloki NNP O त्रिलोकी
+good JJ O अच्छे
+good JJ F अच्छी
+good JJ M अच्छे
+professor NN O प्रोफेसर
+sleeping VBG F सो रही
+sleeping VBG M सो रहा
+sleeping VBG O सो रहे
+bathing VBG O नहा रहे
+bathing VBG M नहा रहा
+bathing VBG F नहा रही
+Mridul NNP O मृदुल
+asking VBG M पूछ रहा
+asking VBG F पूछ रही
+asking VBG O पूछ रहे
+finding VBG M खोज रहा
+finding VBG F खोज रही
+finding VBG O खोज रहे
+giving VBG M दे रहा
+giving VBG F दे रही
+giving VBG O दे रहे
+hearing VBG M सुन रहा
+hearing VBG F सुन रही
+hearing VBG O सुन रहे
+helping VBG M मदद कर रहा
+helping VBG F मदद कर रही
+helping VBG O मदद कर रहे
+making VBG M बना रहा
+making VBG F बना रही
+making VBG O बना रहे
+moving VBG M चल रहा
+moving VBG F चल रही
+moving VBG O चल रहे
+running VBG M दौड़ रहा
+running VBG F दौड़ रही
+running VBG O दौड़ रहे
+ground NN O मैदान
+helps VBZ M मदद करता है
+helps VBZ F मदद करती है
+helps VBZ O मदद करते हैं
+Teacher NNP O शिक्षक
+student NN O छात्र
+Akash NNP O आकाश
+gives VBZ O देते हैं
+gives VBZ M देता है
+gives VBZ F देती है
+sweets NNS O मिठाई
+different JJ O अलग
+important JJ O जरूरी
+large JJ O बड़ा
+difficult JJ O मुश्किल
+hot JJ O गरम
+cold JJ O ठंढा
+strong JJ O मजबूत
+weak JJ O कमज़ोर
+happy JJ O खुश
+sad JJ O दुखी
+nice JJ O अच्छा
+book NN O किताब
+different JJ M अलग
+important JJ M जरूरी
+large JJ M बड़ा
+difficult JJ M मुश्किल
+hot JJ M गरम
+cold JJ M ठंढा
+strong JJ M मजबूत
+weak JJ M कमज़ोर
+happy JJ M खुश
+sad JJ M दुखी
+nice JJ M अच्छा
+book NN M किताब
+different JJ F अलग
+important JJ F जरूरी
+large JJ F बड़ा
+difficult JJ F मुश्किल
+hot JJ F गरम
+cold JJ F ठंढा
+strong JJ F मजबूत
+weak JJ F कमज़ोर
+happy JJ F खुश
+sad JJ F दुखी
+nice JJ F अच्छा
+book NN F किताब

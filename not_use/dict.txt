@@ -1,0 +1,19 @@
+Ram NNP O राम
+go VBP M जाता 
+go VBP F जाती
+to TO O है
+play VB O खेलने
+play NN O खेल
+is VBZ O है
+playing VBG M खेल रहा
+playing VBG F खेल रही
+wa VBZ M था 
+wa VBZ F थी
+Sita NNP O सीता
+dance VB O नाचने
+Geeta NNP O गीता
+love NN O पसंद
+sleep VB M सोना
+sleep VB F सोना
+going VBG M जा रहा
+going VBG F जा रही
